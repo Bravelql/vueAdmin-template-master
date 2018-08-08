@@ -6,9 +6,8 @@
           element-loading-text="Loading"
           border
           :height = "800"
-          style="width: 100%; text-align: center">
+          style="width: 100%;">
           <el-table-column
-            header-align="center"
             prop="provinceName"
             label="省市"
             width="180"
